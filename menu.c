@@ -14,7 +14,7 @@ void Menu_bebi(void){
 }
 
 int main(){
-  int opcao, preco_hamb, preco_bebi,opcao_hamb, opcao_bebi,aux=0;
+  int opcao, opcao_hamb, opcao_bebi,aux=0;
   float valor_total=0;
  	
   while(opcao!=4){
